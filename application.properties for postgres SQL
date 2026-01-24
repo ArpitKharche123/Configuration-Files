@@ -1,7 +1,7 @@
 spring.application.name=springboot-db
 spring.datasource.url= jdbc:postgresql://localhost:5432/springbootDb
-spring.datasource.username=postgres 
-spring.datasource.password=root1234 
+spring.datasource.username=postgres
+spring.datasource.password=root1234
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.properties.hibernate.format_sql=true
