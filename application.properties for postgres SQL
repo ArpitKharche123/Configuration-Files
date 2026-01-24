@@ -1,4 +1,3 @@
-spring.application.name=springboot-db
 spring.datasource.url= jdbc:postgresql://localhost:5432/springbootDb
 spring.datasource.username=postgres
 spring.datasource.password=root1234
