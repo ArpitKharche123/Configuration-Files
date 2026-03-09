@@ -5,7 +5,7 @@
              version="3.0">
 
     <persistence-unit name="hibernate" transaction-type="RESOURCE_LOCAL">
-	<class>DTO.Mobile</class>
+	<class>fully_qualified_name_of_entity_class</class>
 		<exclude-unlisted-classes>true</exclude-unlisted-classes>
 
         <properties>
